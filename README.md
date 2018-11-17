@@ -10,6 +10,7 @@ The chosen approach includes:
 
 Wiring:
 -------
+
 (see pinning: https://raw.githubusercontent.com/playelek/pinout-doit-32devkitv1/master/pinoutDOIT32devkitv1.png)
 D23 -- 1k -- GND
 D21 -- 100R -- red LED -- GND
@@ -18,6 +19,7 @@ D18 -- 100R -- green LED -- GND
 
 Used Software:
 --------------
+
 Visual Studio
 Platformio IDE ("open source ecosystem for IoT development") for VSCode https://platformio.org/platformio-ide 
 library: PubSubClient inside VSCode (Visual Studio)
@@ -26,5 +28,6 @@ free MQTT Server / Broker: https://dioty.co (see an overview here: http://www.st
 
 Inspiration:
 ------------
+
 Setting up MQTT using with Visual Studio (Arduino) https://www.youtube.com/watch?v=5tG3JXFYrUo
 Quick Start Guide: http://docs.platformio.org/en/latest/platforms/espressif32.html?utm_source=github&utm_medium=arduino-esp32
