@@ -24,7 +24,8 @@ Visual Studio
 Platformio IDE ("open source ecosystem for IoT development") for VSCode https://platformio.org/platformio-ide 
 library: PubSubClient inside VSCode (Visual Studio)
 free MQTT Server / Broker: https://dioty.co (see an overview here: http://www.steves-internet-guide.com/iot-mqtt-dashboards/)
-
+Mobile App from dioty but other MQTT Dashboards work as well.
+To be tried out: node-red
 
 Inspiration:
 ------------
